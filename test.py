@@ -7,3 +7,6 @@ def area(radius):
 
 def perimeter(radius):
   return(2 * math.pi * radius)
+
+def reactangle_area(length,width):
+  return(length * width)
