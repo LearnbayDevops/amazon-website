@@ -2,8 +2,8 @@ import math
 print(math.e)
 print(math.pi)
 
-def area(radius):
+def circle_area(radius):
   return(math.pi * radius ** 2)
 
-def perimeter(radius):
+def circle_perimeter(radius):
   return(2 * math.pi * radius)
